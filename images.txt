@@ -1,1 +1,2 @@
-linuxserver/qbittorrent:4.6.5
+linuxserver/transmission:4.0.4
+linuxserver/qbittorrent:4.3.9
